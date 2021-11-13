@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GH7GhwEffaQx0cUDoHtLjezzlbmrnj7G66hHMvBuy4emVgTD+ls9SKh6jdca47kg0QN6VBH5z1DV/2h3jiwAzw==",
+  "dgSpecHash": "mw65yBv+9Xk+FwGiuDknPbda7pw97LZqZ3yOhkzyQAW++CVTiu9+Bylb6SEtrCRRP3DZGST6NUCsBa80IqIqFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kauan\\Desktop\\Estudos em geral\\CURSOS\\Full-StackUdemy\\webapi\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\kauan\\Desktop\\Estudos em geral\\CURSOS\\Full-StackUdemy\\webapi\\back\\src\\proeventos.api\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kauan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kauan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
